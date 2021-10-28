@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1635446184 source:c:\users\asus\documents\3b3\programmation c\struct\hotel\hotel\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fonction.h"
+
+1635406203 c:\users\asus\documents\3b3\programmation c\struct\hotel\hotel\hotel.h
+
+1635444178 c:\users\asus\documents\3b3\programmation c\struct\hotel\hotel\fonction.h
+
+1635445778 source:c:\users\asus\documents\3b3\programmation c\struct\hotel\hotel\fonction.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fonction.h"
+
